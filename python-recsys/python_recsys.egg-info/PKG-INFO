@@ -1,0 +1,11 @@
+Metadata-Version: 1.1
+Name: python-recsys
+Version: 0.2
+Summary: A simple recommender system in python
+Home-page: https://github.com/delvv/python-recsys
+Author: Raefer Gabriel
+Author-email: raefer@delvv.com
+License: http://www.gnu.org/copyleft/gpl.html
+Download-URL: https://github.com/delvv/python-recsys/archive/0.2a.zip
+Description: UNKNOWN
+Platform: any
